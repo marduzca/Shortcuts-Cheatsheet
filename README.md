@@ -37,6 +37,7 @@
 | Jump back to editor | `esc`      |
 | Auto complete method & add new blank line| `Cmd + Shift + Enter`      |
 | Show recommendations| `Ctrl + Space`      |
+| Collapse all | `Cmd + Shift + -`      |
 
 
 
